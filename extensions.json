@@ -39,5 +39,6 @@
   "ms-vsliveshare.vsliveshare",
   "ms-azuretools.vscode-docker",
   "ms-vscode-remote.remote-wsl",
-  "formulahendry.code-runner"
+  "formulahendry.code-runner",
+  "ms-vscode.cpptools"
 ]
