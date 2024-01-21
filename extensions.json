@@ -36,5 +36,7 @@
   "yzhang.markdown-all-in-one",
   "esbenp.prettier-vscode",
   "visualstudioexptteam.vscodeintellicode",
-  "ms-vsliveshare.vsliveshare"
+  "ms-vsliveshare.vsliveshare",
+  "ms-azuretools.vscode-docker",
+  "ms-vscode-remote.remote-wsl"
 ]

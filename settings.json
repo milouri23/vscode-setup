@@ -1,5 +1,5 @@
 {
-  "workbench.sideBar.location": "left",
+  "workbench.sideBar.location": "right",
   "editor.linkedEditing": true,
   "editor.guides.bracketPairs": true,
   "editor.stickyScroll.enabled": true,
