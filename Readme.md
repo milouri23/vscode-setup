@@ -10,10 +10,12 @@ This repository contains a PowerShell script `install_extensions.ps1` that autom
 
 1. Customize the `extensions.json` and `settings.json` files as per your requirements.
 
-2. Run the `install_extensions.ps1` script in PowerShell.
+2. Run the `install_extensions.ps1` script in PowerShell with the action parameter. The action parameter must be one of 'InstallExtensions', 'CopySettings', or 'Both'.
 
 ```powershell
-./install_extensions.ps1
+./install_extensions.ps1 -Action InstallExtensions
+./install_extensions.ps1 -Action CopySettings
+./install_extensions.ps1 -Action Both
 ```
 
 Please note that you need to have Visual Studio Code and PowerShell installed on your machine to use this script.
