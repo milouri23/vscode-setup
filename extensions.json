@@ -38,5 +38,6 @@
   "visualstudioexptteam.vscodeintellicode",
   "ms-vsliveshare.vsliveshare",
   "ms-azuretools.vscode-docker",
-  "ms-vscode-remote.remote-wsl"
+  "ms-vscode-remote.remote-wsl",
+  "formulahendry.code-runner"
 ]
