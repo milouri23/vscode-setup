@@ -41,5 +41,6 @@
   "ms-vscode-remote.remote-wsl",
   "formulahendry.code-runner",
   "ms-vscode.cpptools",
-  "ms-vscode.vscode-speech"
+  "ms-vscode.vscode-speech",
+  "ms-azuretools.vscode-azurestorage"
 ]
