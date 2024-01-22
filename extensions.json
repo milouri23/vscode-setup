@@ -43,5 +43,6 @@
   "ms-vscode.cpptools",
   "ms-vscode.vscode-speech",
   "ms-azuretools.vscode-azurestorage",
-  "ms-azuretools.vscode-apimanagement"
+  "ms-azuretools.vscode-apimanagement",
+  "tomoki1207.pdf"
 ]
