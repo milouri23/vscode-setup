@@ -1,3 +1,6 @@
+# The extensions folder is located on:
+# $env:USERPROFILE\.vscode\extensions 
+
 param (
   [Parameter(Mandatory = $true)]
   [ValidateSet('InstallExtensions', 'CopySettings', 'Both')]

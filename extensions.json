@@ -44,5 +44,6 @@
   "ms-vscode.vscode-speech",
   "ms-azuretools.vscode-azurestorage",
   "ms-azuretools.vscode-apimanagement",
-  "tomoki1207.pdf"
+  "tomoki1207.pdf",
+  "nextfaze.json-parse-stringify"
 ]
